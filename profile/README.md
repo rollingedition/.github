@@ -1,6 +1,8 @@
 # Rolling Edition
 
-Free technical books that AI drafts, people verify, and an automated pipeline keeps current as libraries change.
+**Working to keep technical knowledge open, current and verifiable.**
+
+Free to read, forever. Technical books that AI drafts, people verify, and an automated pipeline keeps current as libraries change.
 
 - **Read the books** at [rollingedition.com](https://rollingedition.com). Every edition shows the date its examples last passed, how many of them pass and what changed.
 - **Every book is a repository here,** named `book-…`. Found a mistake? Report it on the book's repository, or fix it with a pull request: [how to contribute](https://github.com/rollingedition/.github/blob/main/CONTRIBUTING.md).
