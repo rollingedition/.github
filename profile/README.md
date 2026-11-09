@@ -1,6 +1,6 @@
 # Rolling Edition
 
-**Working to keep technical knowledge open, current and verifiable.**
+**Keeping technical knowledge open, current and verifiable.**
 
 Free to read, forever. Technical books that AI drafts, people verify, and an automated pipeline keeps current as libraries change.
 
