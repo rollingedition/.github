@@ -9,5 +9,3 @@ Free to read, forever. Technical books that AI drafts, people verify, and an aut
 - **[standards](https://github.com/rollingedition/standards)** holds the checks every book runs, the writing standards, and the code that draws each cover and edition code.
 
 Written with AI. Verified by people.
-
-<sub>Patent pending</sub>
