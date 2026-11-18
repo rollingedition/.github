@@ -46,7 +46,7 @@ Everyone whose change ships is credited by name, or by the pseudonym you choose,
 
 ## Licences
 
-You keep the copyright in what you contribute. When you open a pull request, you license your change under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) for text and [MIT](https://opensource.org/license/mit) for code, and you sign off each commit (`git commit -s`) to certify the [Developer Certificate of Origin](https://developercertificate.org/): that you wrote the change, or have the right to contribute it. That lets us publish it with the book under the book's own licences, [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) for text, with [our added permission](https://rollingedition.com/reuse), and [MIT](https://opensource.org/license/mit) for code, and include it when we license a book to others.
+You keep the copyright in what you contribute. When you open a pull request, you license your change under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) for text and [MIT](https://opensource.org/license/mit) for code, and you sign off each commit (`git commit -s`) to certify the [Developer Certificate of Origin](https://developercertificate.org/): that you wrote the change, or have the right to contribute it. That lets us publish it with the book under the book's own licences, [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) for text, with [our added permission](https://rollingedition.com/policies/reuse), and [MIT](https://opensource.org/license/mit) for code, and include it when we license a book to others.
 
 ## Conduct
 
