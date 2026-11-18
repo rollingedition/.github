@@ -13,4 +13,4 @@ GitHub uses these files for every repository in the Rolling Edition organization
 
 The books are at [rollingedition.com](https://rollingedition.com). These files are generated from templates in the [standards](https://github.com/rollingedition/standards) repository; to suggest a change, open an issue there.
 
-Rolling Edition, its logo and the edition stamp are trademarks of Distributed LLC. The licences cover our books' words and code, not our name or marks. You may say your work is based on a Rolling Edition book, but you may not use our name, logo or stamp to suggest that your work is ours, that we endorse it, or that we verified it.
+Rolling Edition, its logo and the edition stamp are trademarks of Distributed LLC. The licences cover our books' words and code, not our name or marks. You may say your work is based on a Rolling Edition book, but you may not use our name, logo or stamp to suggest that your work is ours, we endorse it, or verified it.
